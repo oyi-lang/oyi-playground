@@ -1,0 +1,1 @@
+Working through the book, "Building Bitcoin in Rust" by Braiins, using OCaml.
